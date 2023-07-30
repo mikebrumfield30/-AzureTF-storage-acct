@@ -1,3 +1,4 @@
 *.terraform*
 *.tfstate*
 *apply_plan*
+*destroy_plan*
